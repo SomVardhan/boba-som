@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: "Georgia";
+    text-align: center;
+}
+h1{
+    color: rgb(255, 85, 0);
+    font-style: italic;
+}
+h2{color:blueviolet;
+
+font-style: italic}
+p{color:chocolate
+font-style: italic}
+
+/* Forcing the image size if it's too big */
+img {
+    width: 300px;
+    height: 300px;
+}
